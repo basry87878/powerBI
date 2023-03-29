@@ -1,1 +1,1 @@
-# Survey Data Analysis and in sights using powerBI data analysis tool.
+# Survey Data Analysis & insights using powerBI data analysis tool.
