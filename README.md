@@ -1,8 +1,8 @@
-# Survey Data Analysis & insights using powerBI data analysis tool.
+# Survey Data Analysis & insights using powerBI.
+## Problem statement: Visualization of a collected data survey that provides valuable insights into the current state of the data community.
 
 ![Screenshot 2023-03-29 173913](https://github.com/user-attachments/assets/461b4690-94f3-42fb-a2c8-ef08f490b4ba)
 
-## This project is a Visualization of a collected data survey that provides valuable insights into the current state of the data community.
 
 Observations:
 
