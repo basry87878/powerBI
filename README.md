@@ -7,7 +7,7 @@
 Observations:
 
     Most survey takers are from the United States (630 out of 630), followed by India (46).
-    Data Scientists have the highest average salary, followed by Data Engineers.
+    Data Scientists/analysts have the highest average salary, followed by Data Engineers.
     Python is the most popular programming language among survey takers.
     Breaking into the field of data is considered difficult for most respondents.
 
