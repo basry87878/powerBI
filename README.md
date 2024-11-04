@@ -7,8 +7,7 @@
 Observations:
 
     Most survey takers are from the United States (630 out of 630), followed by India (46).
-    The average age of survey takers is 5.74 years old.
-    Data Engineers have the highest average salary, followed by Data Scientists.
+    Data Scientists have the highest average salary, followed by Data Engineers.
     Python is the most popular programming language among survey takers.
     Breaking into the field of data is considered difficult for most respondents.
 
